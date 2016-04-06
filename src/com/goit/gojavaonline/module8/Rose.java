@@ -1,5 +1,8 @@
+package com.goit.gojavaonline.module8;
 
-    public class Rose extends Flower implements Comparable<Flower> {
+import com.goit.gojavaonline.module8.Flower;
+
+public class Rose extends Flower implements Comparable<Flower> {
 
        private String color;
        private int price;

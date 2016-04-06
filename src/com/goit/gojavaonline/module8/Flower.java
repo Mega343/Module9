@@ -1,3 +1,4 @@
+package com.goit.gojavaonline.module8;
 public class Flower {
 
  private    String color;

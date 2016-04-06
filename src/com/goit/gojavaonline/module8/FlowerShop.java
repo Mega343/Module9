@@ -1,3 +1,4 @@
+package com.goit.gojavaonline.module8;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -19,9 +20,9 @@ public class FlowerShop {
 
         flowersPrint(flowers);
 
+
+
         System.out.println();
-
-
 
         Shifrator shifrator = new Shifrator();
         String flofers = shifrator.collectionToString(flowers);

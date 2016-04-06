@@ -1,3 +1,6 @@
+package com.goit.gojavaonline.module8;
+
+
 import java.util.HashSet;
 
 public class Bouquet {
